@@ -1,2 +1,12 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Dart Studies
+
+## Conditional structures
+* If /Else
+* Ternary
+* Switch case
+
+## Loops
+* For
+* For each
+* While
+* Do while
