@@ -10,3 +10,9 @@
 * For each
 * While
 * Do while
+
+## Functions
+* Parameters
+* Optional Params
+* Recursive
+* Arrow
